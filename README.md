@@ -5,7 +5,7 @@
 
 The front-end for this project is hosted in the following GitHub repository:
 
-- [Frontend Repository](https://github.com/madeeasycodinglife/college-directory-application-back-end)
+- [Backend Repository](https://github.com/madeeasycodinglife/college-directory-application-back-end)
 
 Feel free to explore the repository for more details about the front-end implementation.
 
